@@ -1,0 +1,8 @@
+.angular/cache/
+
+# Ignora la carpeta node_modules
+node_modules
+.angular/cache
+
+# .gitignore
+__pycache__/
